@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yellow-jambhala-thangka.onrender.com/sitemap.xml
+Sitemap: https://saritabasnet1.github.io/yellow-jambhala-thangka/sitemap.xml
